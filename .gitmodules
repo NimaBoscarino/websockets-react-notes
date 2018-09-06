@@ -1,0 +1,3 @@
+[submodule "kanye-simon"]
+	path = kanye-simon
+	url = https://github.com/NimaBoscarino/kanye-simon.git
