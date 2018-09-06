@@ -1,3 +1,6 @@
 [submodule "kanye-simon"]
 	path = kanye-simon
 	url = https://github.com/NimaBoscarino/kanye-simon.git
+[submodule "graffiti-wall"]
+	path = graffiti-wall
+	url = https://github.com/NimaBoscarino/graffiti-wall.git
