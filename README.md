@@ -11,7 +11,7 @@ REPO: https://github.com/NimaBoscarino/websockets-react-notes
 - [SocketIO Docs](https://socket.io/docs/)
 - [SocketIO Cheatsheet](https://socket.io/docs/emit-cheatsheet/)
 - [SocketIO Client](https://github.com/socketio/socket.io-client)
-- Some of the tutorials I used during lecture...
+- One of the tutorials I used during lecture...
     - https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34
 
 
