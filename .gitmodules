@@ -4,3 +4,6 @@
 [submodule "graffiti-wall"]
 	path = graffiti-wall
 	url = https://github.com/NimaBoscarino/graffiti-wall.git
+[submodule "react-sockets-plain"]
+	path = react-sockets-plain
+	url = https://github.com/NimaBoscarino/react-sockets-plain.git
